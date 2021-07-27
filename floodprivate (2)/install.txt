@@ -1,7 +1,0 @@
-how use node --experimental-worker screen node method.js https://skypka.com/katalog/tekhnika-dlya-doma/ 49 request GET false false false false
-installing nodejs npm i sync-request,request,cluster,worker_threads etc.
-method.js https://de.000webhost.com/ 500 request GET false false false false
-screen -dmS zzz node method.js https://largmine.me/ 450 request GET false false true false
-pkill node -f
-
-
